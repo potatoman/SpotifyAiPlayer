@@ -16,4 +16,6 @@ This web app allows users to control their Spotify playback by using their voice
 5. I run the script using worker threads
 
 ## Demo
-<video src="SpotifyAIPlayer%20Demo.mp4" controls title="Title"></video>
+
+https://github.com/potatoman/SpotifyAiPlayer/assets/67916039/4f0bd5bd-141c-45d8-943e-9310a0501c59
+
